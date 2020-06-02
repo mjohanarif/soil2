@@ -81,7 +81,7 @@ void loop() {
       Serial.println("Maaf, data gagal masuk");
     }
     }//apabila baris reply dari server index "gagal gaes"tidak sama dengan -1 maka menampilkan"maaf, data gagal masuk"
-  }
+  
  
   Serial.println();
   Serial.println("closing connection");
